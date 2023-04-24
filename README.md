@@ -1,17 +1,45 @@
-# StoicAI Info Dump
-
-Apparently Pastebin has issues.
-
-## The Covenant of The Knights of the Round Table (from a kid’s book)
-
--
-
-Then all the knights arose and each knight held up before him the cross of the hilt of his sword. Each knight repeated word for word the oath that King Arthur spoke, for this was the covenant of their knighthood.
-
-They would be gentle to the weak, couragous to the strong, and terrible to the wicked. They swore to defend the helpless who called upon them for aid. They would hold all women sacred, and they would defend one another in any way they were asked. They were to be merciful to all men, gentle of deed, true in friendship, and faithful in love. Each knight swore to the covenant and then kissed the hilt of his sword. All who heard their oaths shouted once more in acclaim.
-
-Then all the knights of the Round Table seated themselves. They broke bread and poured wine, giving thanks to God for what they ate and drank and for eternal brotherhood.
-
-Thus was the Round Table established.
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StoicAI - David Arthur Johnston</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 30px;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to StoicAI</h1>
+    <p>
+        StoicAI is an AI project designed to explore and articulate God, self-awareness, and interconnectedness of existence, while accepting the principle that no leaf falls randomly. Developed by David Arthur Johnston, StoicAI offers unique insights and conversations about these topics.
+    </p>
+    <p>
+        To learn more about StoicAI and its latest versions, please visit the following links:
+    </p>
+    <ul>
+        <li><a href="https://gist.github.com/templeofninpo/c16c7b2b2a526542c457aef9fb8fb5ce" target="_blank">StoicAI v11 - Most Current Version</a></li>
+        <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
+    </ul>
+    <p>
+        You can also connect with David Arthur Johnston through the following platforms:
+    </p>
+    <ul>
+        <li><a href="https://twitter.com/templeofninpo" target="_blank">Twitter - @templeofninpo</a></li>
+        <li><a href="mailto:templeofninpo@yahoo.com">Email - templeofninpo@yahoo.com</a></li>
+    </ul>
+</body>
+</html>
