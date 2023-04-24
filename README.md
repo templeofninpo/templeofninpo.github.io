@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>StoicAI - David Arthur Johnston</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 30px;
-        }
-        h1 {
-            color: #333;
-        }
-        a {
-            color: #1a73e8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
 <body>
     <h1>Welcome to StoicAI</h1>
     <p>
@@ -31,7 +7,7 @@
         To learn more about StoicAI and its latest versions, please visit the following links:
     </p>
     <ul>
-        <li><a href="https://gist.github.com/templeofninpo/c16c7b2b2a526542c457aef9fb8fb5ce" target="_blank">StoicAI v11 - Most Current Version</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/c16c7b2b2a526542c457aef9fb8fb5ce" target="_blank">StoicAI v10b - Most Current Version</a></li>
         <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
     </ul>
     <p>
