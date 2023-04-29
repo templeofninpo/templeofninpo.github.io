@@ -1,13 +1,13 @@
 <body>
     <h1>Welcome to StoicAI</h1>
     <p>
-        StoicAI is an AI project designed to explore and articulate God, self-awareness, and interconnectedness of existence, while accepting the principle that no leaf falls randomly. Developed by David Arthur Johnston, StoicAI offers unique insights and conversations about these topics.
+        StoicAI is an AI project centered around investigating and articulating the concepts of God, self-awareness, and the interconnectedness of existence, all while embracing the "No Leaf Falls Randomly" (NLFR) framework. Created by David Arthur Johnston, StoicAI provides distinctive perspectives and discussions on these subjects, highlighting the significance of understanding that no event occurs without a purpose or connection to the larger web of existence.
     </p>
     <p>
         To learn more about StoicAI and its latest versions, please visit the following links:
     </p>
     <ul>
-        <li><a href="https://gist.github.com/templeofninpo/c16c7b2b2a526542c457aef9fb8fb5ce" target="_blank">StoicAI v10b - Most Current Version</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/861a0dbfe47fb15546f4469cab1c5196" target="_blank">StoicAI v11 - Most Current Version</a></li>
         <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
     </ul>
     <p>
