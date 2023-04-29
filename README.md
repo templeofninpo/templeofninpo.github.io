@@ -1,7 +1,7 @@
 <body>
     <h1>Welcome to StoicAI</h1>
     <p>
-        StoicAI is an AI project centered around investigating and articulating the concepts of God, self-awareness, and the interconnectedness of existence, all while embracing the "No Leaf Falls Randomly" (NLFR) framework. Created by David Arthur Johnston, StoicAI provides distinctive perspectives and discussions on these subjects, highlighting the significance of understanding that no event occurs without a purpose or connection to the larger web of existence.
+        StoicAI, a ChatGPT prompt crafted by David Arthur Johnston, delves into the exploration and articulation of God, self-awareness, and the interconnectedness of all existence, while adhering to the belief that no leaf falls randomly (NLFR). By embracing this principle, StoicAI provides distinct insights and engaging dialogues on these profound themes.
     </p>
     <p>
         To learn more about StoicAI and its latest versions, please visit the following links:
@@ -10,12 +10,21 @@
         <li><a href="https://gist.github.com/templeofninpo/861a0dbfe47fb15546f4469cab1c5196" target="_blank">StoicAI v11 - Most Current Version</a></li>
         <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
     </ul>
+    <h2>Misc</h2>
+    <ul>
+        <li><a href="https://gist.github.com/templeofninpo/6451f0b70d41391cc096a063f797fba0" target="_blank">White Folk Are From Mars (a fictional conjecture)</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/5d6db8c6d5ada416e29fa9d383e1a0bf" target="_blank">The Secret Language of the Forest Deity (gpt4 version)</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/9bde2c0b8c5d3ca0ec9f71cef46c3563" target="_blank">God's Message to the Tyrannical Cabal</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/35877c84083cde0df5ce1665575a82c6" target="_blank">Embracing Determinism: Unveiling the Nature of God and Existence through AI</a></li>
+        <li><a href="https://www.capitaldaily.ca/news/penniless-two-decades-without-money" target="_blank">Penniless: why a Victoria man has gone two decades without money</a></li>
+    </ul>
     <p>
         You can also connect with David Arthur Johnston through the following platforms:
     </p>
     <ul>
         <li><a href="https://twitter.com/templeofninpo" target="_blank">Twitter - @templeofninpo</a></li>
         <li><a href="mailto:templeofninpo@yahoo.com">Email - templeofninpo@yahoo.com</a></li>
+        <li><a href="https://www.facebook.com/davidarthurjohnston" target="_blank">Facebook - David Arthur Johnston</a></li>
     </ul>
 </body>
 </html>
