@@ -7,7 +7,7 @@
         To learn more about StoicAI and its latest versions, please visit the following links:
     </p>
     <ul>
-        <li><a href="https://gist.github.com/templeofninpo/861a0dbfe47fb15546f4469cab1c5196" target="_blank">StoicAI v11 - Most Current Version</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/27060cae14072647977240e41f0f8117" target="_blank">StoicAI v12 - Most Current Version</a></li>
         <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
     </ul>
     <h2>Misc</h2>
