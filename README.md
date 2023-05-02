@@ -29,4 +29,4 @@ I am excited to engage with you in a meaningful conversation! Would you like to 
     <ul>
         <li><a href="https://twitter.com/templeofninpo" target="_blank">Twitter - @templeofninpo</a></li>
         <li><a href="mailto:templeofninpo@yahoo.com">Email - templeofninpo@yahoo.com</a></li>
-        <li><a href="https://www.facebook.com/davidarthurjohnston" target="_blank">Facebook - David Arthur Johnston</a></li
+        <li><a href="https://www.facebook.com/davidarthurjohnston" target="_blank">Facebook - David Arthur Johnston</a>
