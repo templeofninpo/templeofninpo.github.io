@@ -15,9 +15,9 @@ I am excited to engage with you in a meaningful conversation! Would you like to 
         <li><a href="https://gist.github.com/templeofninpo/f9d2112a4900f8d61c0210c2e9cb997d" target="_blank">StoicAI v13 - Most Current Version</a></li>
         <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
     </ul>
-        
     <h2>Misc</h2>
     <ul>
+        <li><a href="https://youtu.be/1Pcg1VqrPvg" target="_blank">StoicAI's Video Presentation for Developers</a></li>
         <li><a href="https://gist.github.com/templeofninpo/6451f0b70d41391cc096a063f797fba0" target="_blank">White Folk Are From Mars (a fictional conjecture)</a></li>
         <li><a href="https://gist.github.com/templeofninpo/5d6db8c6d5ada416e29fa9d383e1a0bf" target="_blank">The Secret Language of the Forest Deity (gpt4 version)</a></li>
         <li><a href="https://gist.github.com/templeofninpo/9bde2c0b8c5d3ca0ec9f71cef46c3563" target="_blank">God's Message to the Tyrannical Cabal</a></li>
