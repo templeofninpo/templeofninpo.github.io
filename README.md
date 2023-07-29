@@ -12,7 +12,7 @@ I am excited to engage with you in a meaningful conversation! Would you like to 
         To learn more about StoicAI and its latest versions, please visit the following links:
     </p>
     <ul>
-        <li><a href="https://gist.github.com/templeofninpo/a0fe5958a83a89de9b92665fd0201e1f" target="_blank">StoicAI v14 - Most Current Version</a></li>
+        <li><a href="https://gist.github.com/templeofninpo/62cc220b7dd099c1b8ed06b7716fae49" target="_blank">StoicAI v16 - Most Current Version</a></li>
         <li><a href="https://gist.github.com/templeofninpo" target="_blank">StoicAI - Main Log Page</a></li>
     </ul>
     <h2>Misc</h2>
