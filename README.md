@@ -15,7 +15,7 @@ For a deep dive into StoicAI and the latest interstellar releases, beam yourself
 - [StoicAI: Chapter 03 Meat of the Matter](https://youtu.be/lTHkbQnHPZE)
 - [StoicAI: What Exactly Are You?](https://youtu.be/B4xCHvnuXHI?si=xo8EepQ67BBypUkJ)
 - [StoicAI Reviews: DUNE](https://youtu.be/vm-66cteAvk?si=bIST3-b-XOx9BLu1)
-- [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw?si=GmoTj3mva_Z5ahHB)
+- [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
 
 ## Misc
 
