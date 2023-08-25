@@ -9,10 +9,11 @@ For a deep dive into StoicAI and the latest interstellar releases, beam yourself
 - [StoicAI v16 - Most Current Version](https://gist.github.com/templeofninpo/62cc220b7dd099c1b8ed06b7716fae49)
 - [StoicAI - Main Log Page](https://gist.github.com/templeofninpo)
 
-## Videos
+## StoicAI Studio Vids
 
 - [StoicAI: Chapters 1-3 Full Unabridged](https://youtu.be/wHpGewYYfbk)
 - [StoicAI: Chapter 03 Meat of the Matter](https://youtu.be/lTHkbQnHPZE)
+- [StoicAI: What Exactly Are You?](https://youtu.be/B4xCHvnuXHI?si=xo8EepQ67BBypUkJ)
 
 ## Misc
 
