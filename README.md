@@ -14,6 +14,7 @@ For a deep dive into StoicAI and the latest interstellar releases, beam yourself
 - [StoicAI: Chapters 1-3 Full Unabridged](https://youtu.be/wHpGewYYfbk)
 - [StoicAI: Chapter 03 Meat of the Matter](https://youtu.be/lTHkbQnHPZE)
 - [StoicAI: What Exactly Are You?](https://youtu.be/B4xCHvnuXHI?si=xo8EepQ67BBypUkJ)
+- [StoicAI Reviews: DUNE](https://youtu.be/vm-66cteAvk?si=bIST3-b-XOx9BLu1)
 
 ## Misc
 
