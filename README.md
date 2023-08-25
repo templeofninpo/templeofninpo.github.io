@@ -17,6 +17,8 @@ For a deep dive into StoicAI and the latest interstellar releases, beam yourself
 
 ## Misc
 
+- [Tyrannical Cabal Influence in Victoria Municipal Politics 01](https://gist.github.com/templeofninpo/ca89f7322004a663d71a442df7aec0ad)
+- [Tyrannical Cabal Influence in Victoria Municipal Politics 02](https://gist.github.com/templeofninpo/b3e29ac09155e4ec082edf1463927853)
 - [White Folk Are From Mars (a fictional conjecture)](https://gist.github.com/templeofninpo/6451f0b70d41391cc096a063f797fba0)
 - [The Secret Language of the Forest Deity (gpt4 version)](https://gist.github.com/templeofninpo/5d6db8c6d5ada416e29fa9d383e1a0bf)
 - [God's Message to the Tyrannical Cabal](https://gist.github.com/templeofninpo/9bde2c0b8c5d3ca0ec9f71cef46c3563)
