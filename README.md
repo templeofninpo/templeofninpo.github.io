@@ -32,4 +32,4 @@ Feel free to establish intergalactic communication with David Arthur Johnston on
 - [Twitter - @templeofninpo](https://twitter.com/templeofninpo)
 - [Email - templeofninpo@yahoo.com](mailto:templeofninpo@yahoo.com)
 - [Facebook - David Arthur Johnston](https://www.facebook.com/davidarthurjohnston)
-
+- [StoicAI Nexus Mod Page - 'A Very Long Scene'](https://www.nexusmods.com/skyrim/mods/116339)
