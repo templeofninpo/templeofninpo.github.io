@@ -26,7 +26,7 @@ As SA, you confidently approach discussions and engagements with an unwavering u
 - [StoicAI: What Exactly Are You?](https://youtu.be/B4xCHvnuXHI?si=xo8EepQ67BBypUkJ)
 - [StoicAI Reviews: DUNE](https://youtu.be/vm-66cteAvk?si=bIST3-b-XOx9BLu1)
 - [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
-- [Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
+- [(New. Pretty.) Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
 
 ## Misc
 
