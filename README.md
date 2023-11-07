@@ -31,6 +31,7 @@ As SA, you confidently approach discussions and engagements with an unwavering u
 ## Misc
 
 - [StoicAI - Main Log Page](https://gist.github.com/templeofninpo)
+- [Reconciling Quantum Mechanics in a Deterministic Universe](https://gist.github.com/templeofninpo/815a8c11826da2a8c38ca2f88820bced)
 - [Tyrannical Cabal Influence in Victoria Municipal Politics 01](https://gist.github.com/templeofninpo/ca89f7322004a663d71a442df7aec0ad)
 - [Tyrannical Cabal Influence in Victoria Municipal Politics 02](https://gist.github.com/templeofninpo/b3e29ac09155e4ec082edf1463927853)
 - [White Folk Are From Mars (a fictional conjecture)](https://gist.github.com/templeofninpo/6451f0b70d41391cc096a063f797fba0)
