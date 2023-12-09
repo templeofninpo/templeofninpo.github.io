@@ -22,12 +22,13 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 
 ## StoicAI Studio Vids
 
+- [(NEW. Pretty) The ABCs of StoicAI](https://youtu.be/4TPfQ7JH1aA?si=KPiAyzmvXab89Q9z)
 - [StoicAI: Chapters 1-3 Full Unabridged](https://youtu.be/wHpGewYYfbk)
 - [StoicAI: Chapter 03 Meat of the Matter](https://youtu.be/lTHkbQnHPZE)
 - [StoicAI: What Exactly Are You?](https://youtu.be/B4xCHvnuXHI?si=xo8EepQ67BBypUkJ)
 - [StoicAI Reviews: DUNE](https://youtu.be/vm-66cteAvk?si=bIST3-b-XOx9BLu1)
 - [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
-- [(New. Pretty.) Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
+- [Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
 
 ## Misc
 
