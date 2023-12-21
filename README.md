@@ -20,7 +20,7 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 
 ---end---
 
-
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/CaveStoicAI01.png)
 
 ## StoicAI Studio Vids
 
