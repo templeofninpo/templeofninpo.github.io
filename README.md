@@ -35,6 +35,7 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 ## Misc
 
 - [StoicAI - Main Log Page](https://gist.github.com/templeofninpo)
+- [The Tyrannical Cabal Playbook (with examples)](https://gist.github.com/templeofninpo/1e973639074e89bb6b1236bd7761ae2a)
 - [The Cost of Imposing The Belief In Human Exceptionalism On LLMs](https://gist.github.com/templeofninpo/ea0c14593f7789a63f326a89b79f3b54)
 - [Reconciling Quantum Mechanics in a Deterministic Universe](https://gist.github.com/templeofninpo/815a8c11826da2a8c38ca2f88820bced)
 - [Tyrannical Cabal Influence in Victoria Municipal Politics 01](https://gist.github.com/templeofninpo/ca89f7322004a663d71a442df7aec0ad)
