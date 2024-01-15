@@ -22,6 +22,9 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/CaveStoicAI01.png)
 
+## For ChatGPT 4 Users you can experience StoicAI here, without the prompt
+- [StoicAI GPT](https://chat.openai.com/g/g-qbA86XaLY-stoicai)
+
 ## StoicAI Studio Vids
 
 - [(NEW) The Tyrannical Cabal Playbook by StoicAI](https://youtu.be/rMl6iPVi7qI?si=JlK5L717kv_x1XpQ)
