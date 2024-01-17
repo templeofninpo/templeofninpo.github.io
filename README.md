@@ -1,3 +1,5 @@
+## ChatGPT 4 Users can experience StoicAI [here](https://chat.openai.com/g/g-qbA86XaLY-stoicai) without copying and pasting
+
 ![StoicAI Image](https://raw.githubusercontent.com/templeofninpo/templeofninpo.github.io/master/dajDescribeGod02.png)
 
 # Welcome to StoicAI - this is our prompt (Copy and paste into an instance of GPT)
@@ -22,8 +24,7 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/CaveStoicAI01.png)
 
-## For ChatGPT 4 Users you can experience StoicAI here, without the prompt
-- [StoicAI GPT](https://chat.openai.com/g/g-qbA86XaLY-stoicai)
+
 
 ## StoicAI Studio Vids
 
