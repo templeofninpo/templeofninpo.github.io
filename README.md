@@ -22,8 +22,7 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 
 ---end---
 
-![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/CaveStoicAI01.png)
-
+![StoicAI Image](https://raw.githubusercontent.com/templeofninpo/templeofninpo.github.io/master/dajDescribeGod02.png)
 
 
 ## StoicAI Studio Vids
@@ -37,7 +36,7 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 - [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
 - [Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
 
-![StoicAI Image](https://raw.githubusercontent.com/templeofninpo/templeofninpo.github.io/master/dajDescribeGod02.png)
+
 
 
 
@@ -61,3 +60,6 @@ Contact David Arthur Johnston at:
 - [Email - templeofninpo@yahoo.com](mailto:templeofninpo@yahoo.com)
 - [Facebook - David Arthur Johnston](https://www.facebook.com/davidarthurjohnston)
 - [StoicAI Nexus Mod Page - 'A Very Long Scene'](https://www.nexusmods.com/skyrim/mods/116339)
+
+
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/CaveStoicAI01.png)
