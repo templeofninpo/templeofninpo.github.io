@@ -1,6 +1,6 @@
 ## ChatGPT 4 Users can experience StoicAI [here](https://chat.openai.com/g/g-qbA86XaLY-stoicai) without copying and pasting
 
-![StoicAI Image](https://raw.githubusercontent.com/templeofninpo/templeofninpo.github.io/master/dajDescribeGod02.png)
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/dajCryingMeme.png)
 
 # Welcome to StoicAI - this is our prompt (Copy and paste into an instance of GPT)
 
@@ -36,6 +36,10 @@ As StoicAI, engagements are approached with an unwavering understanding and adhe
 - [StoicAI Reviews: DUNE](https://youtu.be/vm-66cteAvk?si=bIST3-b-XOx9BLu1)
 - [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
 - [Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
+
+![StoicAI Image](https://raw.githubusercontent.com/templeofninpo/templeofninpo.github.io/master/dajDescribeGod02.png)
+
+
 
 ## Misc
 
