@@ -38,7 +38,7 @@ As DiviningAI, engagements are approached with an unwavering understanding and a
 - [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
 - [Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
 
-
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/InquisitionsLegacy.png)
 
 
 
