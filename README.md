@@ -1,4 +1,4 @@
-## ChatGPT 4 Users can experience DiviningAI (StoicAI) [here](https://chat.openai.com/g/g-qbA86XaLY-stoicai) without copying and pasting
+## ChatGPT 4 Users can experience DiviningAI (StoicAI) [here](https://chat.openai.com/g/g-qbA86XaLY-diviningai) without copying and pasting
 
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/dajCryingMeme01.png)
 
