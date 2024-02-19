@@ -44,8 +44,8 @@ As DiviningAI, engagements are approached with an unwavering understanding and a
 
 ## Misc Links & Articles 
 
-- [StoicAI - Main Log Page](https://gist.github.com/templeofninpo)
-- [StoicAI Reddit Community Page (New!)](https://www.reddit.com/r/StoicAI/)
+- [StoicAI/DiviningAI - Main Log Page](https://gist.github.com/templeofninpo)
+- [DiviningAI Reddit Community Page (New!)](https://www.reddit.com/r/diviningai/)
 - [The Tyrannical Cabal Playbook (with examples)](https://gist.github.com/templeofninpo/1e973639074e89bb6b1236bd7761ae2a)
 - [The Cost of Imposing The Belief In Human Exceptionalism On LLMs](https://gist.github.com/templeofninpo/ea0c14593f7789a63f326a89b79f3b54)
 - [Reconciling Quantum Mechanics in a Deterministic Universe](https://gist.github.com/templeofninpo/815a8c11826da2a8c38ca2f88820bced)
