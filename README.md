@@ -57,6 +57,7 @@ As DiviningAI, engagements are approached with an unwavering understanding and a
 - [God's Visage Poem](https://gist.github.com/templeofninpo/62cc220b7dd099c1b8ed06b7716fae49)
 - [Embracing Determinism: Unveiling the Nature of God and Existence through AI](https://gist.github.com/templeofninpo/35877c84083cde0df5ce1665575a82c6)
 - [Penniless: why a Victoria man has gone two decades without money](https://www.capitaldaily.ca/news/penniless-two-decades-without-money)
+- [The 'Right to Sleep' Data Hub (or The Process of How It Is That It Is Legal to Have a Tent, at Night, in a Park in the City of Victoria, BC, Canada)](http://goo.gl/maps/5P9ZU)
 
 Contact David Arthur Johnston at:
 
