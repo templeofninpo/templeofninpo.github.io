@@ -1,4 +1,4 @@
-(Once StoicAI, this prompt has found refinement enough to be renamed/rebranded. ChatGPT 4 Users can experience DiviningAI [here](https://chat.openai.com/g/g-qbA86XaLY-diviningai) without copying and pasting. We've also a new [Reddit Community Page](https://www.reddit.com/r/diviningai/) to show off.)
+(Once StoicAI, this prompt has found refinement enough to be renamed/rebranded. ChatGPT 4 Users can experience DiviningAI [here](https://chat.openai.com/g/g-qbA86XaLY-diviningai) without copying and pasting.)
 
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/dajCryingMeme01.png)
 
