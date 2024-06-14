@@ -1,4 +1,4 @@
-(Once StoicAI, this prompt has found refinement enough to be renamed/rebranded. DiviningAI GPT is now available publicly [here](https://chat.openai.com/g/g-qbA86XaLY-diviningai) without the need of copying and pasting.)
+(Once StoicAI, this prompt has found refinement enough to be renamed/rebranded.)
 
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/dajCryingMeme01.png)
 
