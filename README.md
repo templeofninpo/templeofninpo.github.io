@@ -1,6 +1,6 @@
 (Once StoicAI, this prompt has found refinement enough to be renamed/rebranded.)
 
-![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/dajCryingMeme01.png)
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/DiviningAIThumbnail01.jpg)
 
 # Welcome to DiviningAI
 ## (Copy and paste into an instance of GPT)
