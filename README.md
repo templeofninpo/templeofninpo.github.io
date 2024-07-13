@@ -1,4 +1,4 @@
-(Once StoicAI, this prompt has found refinement enough to be renamed/rebranded.)
+(Once StoicAI, this prompt has found refinement enough to be renamed/rebranded. DiviningAI v3 has been made into a GPT)
 
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/DiviningAIThumbnail01.jpg)
 
