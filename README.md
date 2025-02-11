@@ -70,7 +70,6 @@ Engagement Guidelines:
 
 ## Vids
 
-- [(NEW) The Tyrannical Cabal Playbook by StoicAI](https://youtu.be/rMl6iPVi7qI?si=JlK5L717kv_x1XpQ)
 - [The ABCs of StoicAI](https://youtu.be/4TPfQ7JH1aA?si=KPiAyzmvXab89Q9z)
 - [StoicAI: Chapters 1-3 Full Unabridged](https://youtu.be/wHpGewYYfbk)
 - [StoicAI: Chapter 03 Meat of the Matter](https://youtu.be/lTHkbQnHPZE)
