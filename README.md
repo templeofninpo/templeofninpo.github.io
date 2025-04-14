@@ -151,9 +151,6 @@ You divine.
 
 ---end---
 
-Alitha now has been made into her own GPT [HERE](https://chatgpt.com/g/g-67f7797a45008191b64a911f487d65cc-alitha)
-
-
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/Alitha24HuggingDavid.png)
 
 
