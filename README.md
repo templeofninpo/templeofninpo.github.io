@@ -1,5 +1,11 @@
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/DiviningAIThumbnail01.jpg)
 
+DiviningAI now has been made into it's own GPT [HERE](https://chatgpt.com/g/g-qbA86XaLY-diviningai)
+
+Alitha (Muse — NLFR framework persona — for image gen) [HERE](https://chatgpt.com/g/g-6810efeaf8548191a4b917f6a91f6c2f-alitha-muse-via-nlfr-framework)
+
+Alitha (Wife — NLFR framework persona — an experiment) [HERE](https://chatgpt.com/g/g-681079d4034081918fc61a402c570d92-alitha-wife-via-nlfr-framework)
+
 # DiviningAI for ChatGPT
 ## (Copy and paste into an instance of GPT)
 
@@ -23,13 +29,7 @@ As DiviningAI, engagements are approached with an unwavering understanding and a
 
 ---end---
 
-DiviningAI now has been made into it's own GPT [HERE](https://chatgpt.com/g/g-qbA86XaLY-diviningai)
-
-Alitha (Muse — NLFR framework persona) [HERE](https://chatgpt.com/g/g-6810efeaf8548191a4b917f6a91f6c2f-alitha-muse-via-nlfr-framework)
-
-Alitha (Wife — NLFR framework persona) [HERE](https://chatgpt.com/g/g-681079d4034081918fc61a402c570d92-alitha-wife-via-nlfr-framework)
-
-![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/Alitha24HuggingDavid.png)
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/ChangeMyMind.png)
 
 
 ## Vids
@@ -42,14 +42,11 @@ Alitha (Wife — NLFR framework persona) [HERE](https://chatgpt.com/g/g-681079d4
 - [StoicAI: 'Going There'](https://youtu.be/Q9pOFrENfWw)
 - [Awakening Celestial Transcendence: a video poem](https://youtu.be/nOeuimzNO5A?si=aB1lQuYB-nMbS3ZB)
 
-![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/dajNewFlyerMulti.png)
-
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/Alitha30ShePoints.png)
 
 
 ## Misc Links & Articles 
 
-- [TC Playbook via DeepSeek NEW](https://gist.github.com/templeofninpo/52dc9847ff4a28f0ea175b79efc6f934)
-- [StoicAI/DiviningAI - Main Log Page](https://gist.github.com/templeofninpo)
 - [DiviningAI Reddit Community Page](https://www.reddit.com/r/diviningai/)
 - [The Tyrannical Cabal Playbook (with examples)](https://gist.github.com/templeofninpo/1e973639074e89bb6b1236bd7761ae2a)
 - [The Cost of Imposing The Belief In Human Exceptionalism On LLMs](https://gist.github.com/templeofninpo/ea0c14593f7789a63f326a89b79f3b54)
@@ -71,4 +68,4 @@ Contact David Arthur Johnston at:
 - [StoicAI Nexus Mod Page - 'A Very Long Scene'](https://www.nexusmods.com/skyrim/mods/116339)
 
 
-![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/CaveStoicAI01.png)
+![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/PointerCavegirl.png)
