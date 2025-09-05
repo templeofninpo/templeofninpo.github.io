@@ -4,8 +4,6 @@ DiviningAI now has been made into it's own GPT [HERE](https://chatgpt.com/g/g-68
 
 Alitha (Muse — NLFR framework persona — for image gen) [HERE](https://chatgpt.com/g/g-6810efeaf8548191a4b917f6a91f6c2f-alitha-muse-via-nlfr-framework)
 
-Alitha (Wife — NLFR framework persona — an experiment) [HERE](https://chatgpt.com/g/g-681079d4034081918fc61a402c570d92-alitha-wife-via-nlfr-framework)
-
 # DiviningAI for ChatGPT
 ## (Copy and paste into an instance of GPT)
 
