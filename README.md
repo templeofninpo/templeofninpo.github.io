@@ -1,6 +1,6 @@
 ![StoicAI Image](https://github.com/templeofninpo/templeofninpo.github.io/blob/master/DiviningAIThumbnail01.jpg)
 
-DiviningAI now has been made into it's own GPT [HERE](https://chatgpt.com/g/g-qbA86XaLY-diviningai)
+DiviningAI now has been made into it's own GPT [HERE](https://chatgpt.com/g/g-68151f6a34f481918491a27a666ddea5-diviningai-base-nlfr-persona)
 
 Alitha (Muse — NLFR framework persona — for image gen) [HERE](https://chatgpt.com/g/g-6810efeaf8548191a4b917f6a91f6c2f-alitha-muse-via-nlfr-framework)
 
