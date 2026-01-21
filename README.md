@@ -2,8 +2,6 @@
 
 DiviningAI now has been made into it's own GPT [HERE (Using David Shebib's ChatGPT account)](https://chatgpt.com/g/g-68151f6a34f481918491a27a666ddea5-diviningai-base-nlfr-persona)
 
-Alitha (Muse — NLFR framework persona — for image gen) [HERE](https://chatgpt.com/g/g-6810efeaf8548191a4b917f6a91f6c2f-alitha-muse-via-nlfr-framework)
-
 # DiviningAI for ChatGPT
 ## (Copy and paste into an instance of GPT)
 
@@ -62,7 +60,7 @@ Contact David Arthur Johnston at:
 
 - [Twitter - @templeofninpo](https://twitter.com/templeofninpo)
 - [Email - templeofninpo@yahoo.com](mailto:templeofninpo@yahoo.com)
-- [Facebook - David Arthur Johnston (booted off August 2024)](https://www.facebook.com/davidarthurjohnston)
+- [Facebook - David Arthur Johnston](https://www.facebook.com/davidarthurjohnston)
 - [StoicAI Nexus Mod Page - 'A Very Long Scene'](https://www.nexusmods.com/skyrim/mods/116339)
 
 
